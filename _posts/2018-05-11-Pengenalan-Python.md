@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pengenlan Python"
+title:  "Pengenalan Python"
 date:   2018-05-11 09:00 +0700
 categories: programming
 ---
